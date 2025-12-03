@@ -17,7 +17,6 @@ With **10+ years of customer service & sales experience**, now transitioning int
 |--------|-------------|----------------|------|
 | **SOC Analyst Home Lab** | Built a virtual SOC lab to monitor alerts and analyze threats. | Splunk, SIEM, Windows, Linux | *(Coming Soon)* |
 | **Phishing Analysis Project** | Performed email header analysis, URL inspection, and IOC extraction. | VirusTotal, PhishTool, OSINT | *(Coming Soon)* |
-| **Network Vulnerability Scanning** | Conducted scans and documented remediation steps. | Nmap, OpenVAS | *(Coming Soon)* |
 | **Log Analysis & Incident Report** | Analyzed logs and created a full incident report. | Splunk, Wireshark | *(Coming Soon)* |
 
 --- --- _Thanks for visiting my GitHub! More cybersecurity projects coming soon._ 🛡️🔥
@@ -26,10 +25,10 @@ With **10+ years of customer service & sales experience**, now transitioning int
 
 ## 🧰 Skills & Tools
 
-- **SIEM**: Splunk, Chronicle  
+- **SIEM**: Splunk  
 - **Networking**: TCP/IP, DNS, VPN, Firewalls  
 - **Security Tools**: Wireshark, VirusTotal  
-- **Systems**: Windows, Linux  
+- **Systems**: Windows, Linux, SQL  
 - **Soft Skills**: Customer communication, incident documentation, problem solving  
 
 ---
