@@ -15,7 +15,7 @@ With **10+ years of customer service & sales experience**, now transitioning int
 
 | Project | Description | Tools / Skills | Link |
 |--------|-------------|----------------|------|
-| **Core SOC Solutions EDR** | performing triage on multiple medium- and high-severity detections within the CrowdStrike Falcon EDR. | Splunk, SIEM, Windows, Linux | (https://docs.google.com/document/d/1-BG3uwESgUZ9_Yi8KjJw3OfNWRE7QTXDkxyr9I3Pndo/edit?usp=sharing) |
+| **Core SOC Solutions with EDR** | performed triage on multiple medium- and high-severity detections within the CrowdStrike Falcon EDR. | Splunk, SIEM, Windows, Linux | (https://docs.google.com/document/d/1-BG3uwESgUZ9_Yi8KjJw3OfNWRE7QTXDkxyr9I3Pndo/edit?usp=sharing) |
 | **Phishing Analysis Project** | Performed email header analysis, URL inspection, and IOC extraction. | VirusTotal, PhishTool, OSINT | *(Coming Soon)* |
 | **Log Analysis & Incident Report** | Analyzed logs and created a full incident report. | Splunk, Wireshark | *(Coming Soon)* |
 
