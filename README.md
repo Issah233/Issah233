@@ -25,9 +25,9 @@ With **10+ years of customer service & sales experience**, now transitioning int
 
 | Project | Description | Tools / Skills | Link |
 |--------|-------------|----------------|------|
-| **Core SOC Solutions with EDR** | performed triage on multiple medium- and high-severity detections within the CrowdStrike Falcon EDR. | Splunk, SIEM, Windows, Linux | (https://docs.google.com/document/d/1-BG3uwESgUZ9_Yi8KjJw3OfNWRE7QTXDkxyr9I3Pndo/edit?usp=sharing) |
-| **Phishing Analysis Project** | Performed email header analysis, URL inspection, and IOC extraction. | Splunk, VirusTotal, PhishTool, OSINT | (https://docs.google.com/document/d/1zm1_cabAMQP8e02ciB1Eub3nQdeDnEOVHpyoCNCzD4A/edit?usp=sharing) |
-| **Vulnerability Management Programme with Tenable Nessus and Azure Sentinel** | Vulnerability assessments and risk prioritization using Tenable across Windows and Linux environments. | Tenable Nessus, Azure Sentinel, KQL |**[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)** |
+| **Core SOC Solutions with EDR** | performed triage on multiple medium- and high-severity detections within the CrowdStrike Falcon EDR. | Splunk, SIEM, Windows, Linux | **[SOC Solutions with EDR](https://docs.google.com/document/d/1-BG3uwESgUZ9_Yi8KjJw3OfNWRE7QTXDkxyr9I3Pndo/edit?tab=t.0)** |
+| **Phishing Analysis Project** | Performed email header analysis, URL inspection, and IOC extraction. | Splunk, VirusTotal, PhishTool, OSINT | **[Phishing & Network Alert Investigation](https://docs.google.com/document/d/1zm1_cabAMQP8e02ciB1Eub3nQdeDnEOVHpyoCNCzD4A/edit?tab=t.0#heading=h.e8dlt42o99kq)** |
+| **Vulnerability Management Programme with Tenable Nessus and Azure Sentinel** | Vulnerability assessments and risk prioritization using Tenable across Windows and Linux environments. | Tenable Nessus, Azure Sentinel, KQL |**[Vulnerability Management Program Implementation](https://github.com/Issah233/Vulnerability-Management-with-Tenable-Nessus-and-Azure-Sentinel-)** |
 
 --- --- _Thanks for visiting my GitHub! More cybersecurity projects coming soon._ 🛡️🔥
 - 🔭 I’m currently working on Cybersecurity Identity and Access Solutions using Azure AD
