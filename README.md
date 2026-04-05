@@ -2,14 +2,24 @@
 ### 🚀 Aspiring Cybersecurity Professional  
 With **10+ years of customer service & sales experience**, now transitioning into cybersecurity through hands-on projects, self-development, and industry certifications.
 
----
 
-## 🛡️ Certifications & Badges
+## 🎓 Certifications
 
-[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-blue?logo=google)](https://www.coursera.org/account/accomplishments/specialization/390Y90F41NIR)  
-[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?logo=comptia)](https://www.credly.com/badges/a4d63c90-78e3-4430-8fc0-cb73638c0917/linked_in_profile)  
-[![Threat Intelligence Analyst – Foundation Level](https://img.shields.io/badge/Threat%20Intelligence%20Analyst-Foundation%20Level-purple)](https://arcx.io/verify-certificate?id=bb346bd2294c8d191ef8ffe07943e5f95d0f38ba&k=dc6efad567f9462eb76e58a310472f2a)
-[![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red?logo=hackthebox&style=for-the-badge)](https://tryhackme.com/certificate/THM-DRBIUHSBZC)
+[![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-blue?style=for-the-badge&logo=google)](https://www.coursera.org/account/accomplishments/specialization/390Y90F41NIR)
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/a4d63c90-78e3-4430-8fc0-cb73638c0917/linked_in_profile)
+
+[![Threat Intelligence Analyst – Foundation Level](https://img.shields.io/badge/Threat%20Intelligence%20Analyst-Foundation%20Level-purple?style=for-the-badge)](https://arcx.io/verify-certificate?id=bb346bd2294c8d191ef8ffe07943e5f95d0f38ba&k=dc6efad567f9462eb76e58a310472f2a)
+
+[![ISC2 CC](https://img.shields.io/badge/ISC2-CC%20Certified%20in%20Cybersecurity-blue?style=for-the-badge&logo=isc2)](https://www.credly.com/badges/6326f0de-699e-40aa-aa8d-1561fe79a609/linked_in_profile)
+
+[![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/certificate/THM-DRBIUHSBZC)
+
+
+
+
+
+
 
 ## 🧪 Cybersecurity Projects 
 
