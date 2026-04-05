@@ -27,7 +27,7 @@ With **10+ years of customer service & sales experience**, now transitioning int
 |--------|-------------|----------------|------|
 | **Core SOC Solutions with EDR** | performed triage on multiple medium- and high-severity detections within the CrowdStrike Falcon EDR. | Splunk, SIEM, Windows, Linux | (https://docs.google.com/document/d/1-BG3uwESgUZ9_Yi8KjJw3OfNWRE7QTXDkxyr9I3Pndo/edit?usp=sharing) |
 | **Phishing Analysis Project** | Performed email header analysis, URL inspection, and IOC extraction. | Splunk, VirusTotal, PhishTool, OSINT | (https://docs.google.com/document/d/1zm1_cabAMQP8e02ciB1Eub3nQdeDnEOVHpyoCNCzD4A/edit?usp=sharing) |
-| **Log Analysis & Incident Report** | Analyzed logs and created a full incident report. | Splunk, Wireshark | *(Coming Soon)* |
+| **Vulnerability Management Programme with Tenable Nessus and Azure Sentinel** | Vulnerability assessments and risk prioritization using Tenable across Windows and Linux environments. | Tenable Nessus, Azure Sentinel, KQL | *(https://github.com/Issah233/Vulnerability-Management-with-Tenable-Nessus-and-Azure-Sentinel-/blob/main/README.md)* |
 
 --- --- _Thanks for visiting my GitHub! More cybersecurity projects coming soon._ 🛡️🔥
 - 🔭 I’m currently working on Cybersecurity Identity and Access Solutions using Azure AD
