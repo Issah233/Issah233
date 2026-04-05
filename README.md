@@ -11,7 +11,7 @@ With **10+ years of customer service & sales experience**, now transitioning int
 [![Threat Intelligence Analyst – Foundation Level](https://img.shields.io/badge/Threat%20Intelligence%20Analyst-Foundation%20Level-purple)](https://arcx.io/verify-certificate?id=bb346bd2294c8d191ef8ffe07943e5f95d0f38ba&k=dc6efad567f9462eb76e58a310472f2a)
 [![TryHackMe SOC Level 1](https://img.shields.io/badge/TryHackMe-SOC%20Level%201-red?logo=hackthebox&style=for-the-badge)](https://tryhackme.com/certificate/THM-DRBIUHSBZC)
 
-## 🧪 Cybersecurity Projects started on Tryhackme 
+## 🧪 Cybersecurity Projects 
 
 | Project | Description | Tools / Skills | Link |
 |--------|-------------|----------------|------|
