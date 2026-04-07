@@ -30,7 +30,7 @@ With **10+ years of customer service & sales experience**, now transitioning int
 | **Vulnerability Management Programme with Tenable Nessus and Azure Sentinel** | Vulnerability assessments and risk prioritization using Tenable across Windows and Linux environments. | Tenable Nessus, Azure Sentinel, KQL |**[Vulnerability Management Program Implementation](https://github.com/Issah233/Vulnerability-Management-with-Tenable-Nessus-and-Azure-Sentinel-)** | Ongoing
 
 --- --- _Thanks for visiting my GitHub! More cybersecurity projects coming soon._ 🛡️🔥
-- 🔭 I’m currently working on Cybersecurity Identity and Access Solutions using Azure AD
+- 🔭 I’m currently working on Vulnerability Management Programme with Tenable Nessus and Azure Sentinel. I will update my Github when I am done. 
 
 
 ## 🧰 Skills & Tools
