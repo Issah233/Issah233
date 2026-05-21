@@ -49,7 +49,7 @@ With **over 10 years of customer service & sales experience**, now transitioning
 I’m always open to cybersecurity discussions, collaborations, or feedback on my projects.
 
 📧 Email: *issah.alhassan.fi@gmail.com*  
-🔗 LinkedIn: *(https://www.linkedin.com/in/issah-alhassan-mba-74489937/)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/issah-alhassan)*
 
 ---
 
