@@ -11,7 +11,7 @@
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN11-CC-000315.PS2
+    STIG-ID         : WN11-00-000031.PS3
     Documentation   : https://stigaview.com/products/win11/v2r7/WN11-00-000031/
 
 .TESTED ON
