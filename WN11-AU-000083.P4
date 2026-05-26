@@ -1,7 +1,6 @@
 <#
 .SYNOPSIS
-    The PowerShell script ensures that the Windows Installer policy AlwaysInstallElevated is explicitly configured to a secure state (0 / disabled).
-
+    These PowerShell scripts ensure that Windows is properly auditing “Other Object Access Events” and that advanced audit policies are enforced correctly.
 .NOTES
     Author          : Issah Alhassan 
     LinkedIn        : www.linkedin.com/in/issah-alhassan 
@@ -11,8 +10,8 @@
     Version         : 1.0
     CVEs            : N/A
     Plugin IDs      : N/A
-    STIG-ID         : WN11-CC-000315.PS2
-    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-00-000031/
+    STIG-ID         : WN11-AU-000083 
+    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-AU-000083/
 
 .TESTED ON
     Date(s) Tested  : 2026-05-26
@@ -23,34 +22,26 @@
 .USAGE
     Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID- WN11-00-000031).ps3
+    PS C:\> .\__remediation_template(STIG-ID- WN11-AU-000083 ).ps4
 #>
 
 
 # Run as Administrator
 
-$RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\FVE"
+# Enable success auditing for Other Object Access Events
+auditpol /set /subcategory:"Other Object Access Events" /success:enable
 
-# Create registry path if missing
-if (-not (Test-Path $RegistryPath)) {
-    New-Item -Path $RegistryPath -Force | Out-Null
-}
+# Verify the setting
+auditpol /get /subcategory:"Other Object Access Events"figured."
 
-# Enable additional authentication at startup
+# Advanced audit policy override enabled
+$RegistryPath = "HKLM:\SYSTEM\CurrentControlSet\Control\Lsa"
+
 New-ItemProperty `
     -Path $RegistryPath `
-    -Name "UseAdvancedStartup" `
+    -Name "SCENoApplyLegacyAuditPolicy" `
     -Value 1 `
     -PropertyType DWord `
     -Force | Out-Null
 
-# Require TPM + PIN
-New-ItemProperty `
-    -Path $RegistryPath `
-    -Name "UseTPMPIN" `
-    -Value 1 `
-    -PropertyType DWord `
-    -Force | Out-Null
-
-
-Write-Host "BitLocker pre-boot PIN policy configured."
+Write-Host "Advanced audit policy override enabled."
