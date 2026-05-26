@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    The PowerShell script ensures that the Windows Installer policy AlwaysInstallElevated is explicitly configured to a secure state (0 / disabled).
+    This ensures that the synopsis is expanded to include additional security benefits of the Windows Installer policy configuration.
 
 .NOTES
     Author          : Issah Alhassan 
