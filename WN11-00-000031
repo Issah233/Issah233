@@ -1,0 +1,56 @@
+<#
+.SYNOPSIS
+    The PowerShell script ensures that the Windows Installer policy AlwaysInstallElevated is explicitly configured to a secure state (0 / disabled).
+
+.NOTES
+    Author          : Issah Alhassan 
+    LinkedIn        : www.linkedin.com/in/issah-alhassan 
+    GitHub          : https://github.com/Issah233
+    Date Created    : 2026-05-26
+    Last Modified   : 2026-05-26
+    Version         : 1.0
+    CVEs            : N/A
+    Plugin IDs      : N/A
+    STIG-ID         : WN11-CC-000315.PS2
+    Documentation   : https://stigaview.com/products/win11/v2r7/WN11-00-000031/
+
+.TESTED ON
+    Date(s) Tested  : 2026-05-26
+    Tested By       : Issah Alhassan
+    Systems Tested  : 
+    PowerShell Ver. : 
+
+.USAGE
+    Put any usage instructions here.
+    Example syntax:
+    PS C:\> .\__remediation_template(STIG-ID- WN11-00-000031).ps3
+#>
+
+
+# Run as Administrator
+
+$RegistryPath = "HKLM:\SOFTWARE\Policies\Microsoft\FVE"
+
+# Create registry path if missing
+if (-not (Test-Path $RegistryPath)) {
+    New-Item -Path $RegistryPath -Force | Out-Null
+}
+
+# Enable additional authentication at startup
+New-ItemProperty `
+    -Path $RegistryPath `
+    -Name "UseAdvancedStartup" `
+    -Value 1 `
+    -PropertyType DWord `
+    -Force | Out-Null
+
+# Require TPM + PIN
+New-ItemProperty `
+    -Path $RegistryPath `
+    -Name "UseTPMPIN" `
+    -Value 1 `
+    -PropertyType DWord `
+    -Force | Out-Null
+
+
+Write-Host "BitLocker pre-boot PIN policy configured."
