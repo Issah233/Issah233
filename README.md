@@ -29,7 +29,7 @@ With **over 10 years of customer service & sales experience**, now transitioning
 | **Phishing Analysis Project** | Conducted phishing investigations through email header analysis, URL inspection, IOC extraction, and OSINT research to identify malicious indicators and assess threats. | Splunk, VirusTotal, PhishTool, OSINT | **[Phishing & Network Alert Investigation](https://docs.google.com/document/d/1zm1_cabAMQP8e02ciB1Eub3nQdeDnEOVHpyoCNCzD4A/edit?tab=t.0#heading=h.e8dlt42o99kq)** |
 
 --- --- _Thanks for visiting my GitHub! More cybersecurity projects coming soon._ 🛡️🔥
-- 🔭 I’m currently working on Vulnerability Management Programme with Tenable Nessus and Azure Sentinel. I will update my Github when I am done. 
+- 🔭 More cybersecurity projects on the way. 
 
 
 ## 🧰 Tools & Skills
@@ -43,15 +43,15 @@ With **over 10 years of customer service & sales experience**, now transitioning
 - **Soft Skills**: Customer communication, incident documentation, problem solving  
 
 ---
+## 📫 Connect with Me
 
-## 📫 Connect With Me
+<a href="https://www.linkedin.com/in/issah-alhassan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Issah%20Alhassan-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
 
-I’m always open to cybersecurity discussions, collaborations, or feedback on my projects.
-
-📧 Email: *issah.alhassan.fi@gmail.com*  
-🔗 LinkedIn: *(https://www.linkedin.com/in/issah-alhassan)*
-
----
+<a href="mailto:issah.alhassan.fi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-issah.alhassan.fi%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+</a>
 
 
 
