@@ -1,6 +1,6 @@
 #### 👋 Hi, I'm **Issah**
-### 🚀 IT Support & SOC Analyst in training 
-With **over 10 years of customer service & sales experience**, now transitioning into cybersecurity through hands-on projects, self-development, and industry certifications.
+### 🚀 IT Support, SOC, & GRC Analyst in training 
+With **over 10 years of customer service & sales experience**, I have now transitioned into cybersecurity through hands-on projects, self-development, and industry certifications.
 
 
 ## 🎓 Certifications
